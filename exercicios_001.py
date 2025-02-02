@@ -4,36 +4,12 @@
 
 primeiro_numero = int(input("Digite o primeiro número: "))
 segundo_numero = int(input("Digite o segundo número: "))
-total = print(primeiro_numero + segundo_numero)
+total = print(f'A somo dos números é: {primeiro_numero + segundo_numero}')
 
-# 2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
 
-numero = int(input("Digite um numero: "))
-resto = numero % 2
-print(resto)
 
-# 3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
-
-primeiro_multplicacao = int(input("Digite o primeiro número: "))
-segundo_multiplicacao = int(input("Digite o segundo número: "))
-print(primeiro_multplicacao * segundo_multiplicacao)
-
-# 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
-
-numero_resto = int(input("Digite um numero: "))
-divisor = int(input('Digite o divisor: '))
-resto_inteiro = numero_resto // divisor
-print(resto_inteiro)
-
-# 5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
-
-# #### Números de Ponto Flutuante (`float`)
-
-# 6. Escreva um programa que receba dois números flutuantes e realize sua adição.
-# 7. Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
-# 8. Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
 # 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
-# 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
+
 
 # #### Strings (`str`)
 
