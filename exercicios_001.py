@@ -6,8 +6,7 @@ primeiro_numero = int(input("Digite o primeiro número: "))
 segundo_numero = int(input("Digite o segundo número: "))
 total = print(f'A somo dos números é: {primeiro_numero + segundo_numero}')
 
-# 14. Faça um programa que peça ao usuário para digitar uma data no formato "dd/mm/aaaa" e, em seguida, imprima o dia, o mês e o ano separadamente.
-# 15. Escreva um programa que concatene duas strings fornecidas pelo usuário.
+
 
 # #### Booleanos (`bool`)
 
